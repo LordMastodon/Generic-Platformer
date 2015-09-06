@@ -11,8 +11,10 @@ public class GenericPlatformer {
 	
 	//Constructor
 	public GenericPlatformer() {
+		//Create the window
 		Window window = new Window(800, 600, "Generic Platformer");
 		
+		//Start the game loop
 		window.start();
 	}
 
