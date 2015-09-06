@@ -12,6 +12,8 @@ public class GenericPlatformer {
 	//Constructor
 	public GenericPlatformer() {
 		Window window = new Window(800, 600, "Generic Platformer");
+		
+		window.start();
 	}
 
 }
