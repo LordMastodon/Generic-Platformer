@@ -1,4 +1,4 @@
-package lordmastodon.engine.graphics;
+package lordmastodon.firstway.engine.graphics;
 
 import java.awt.Canvas;
 import java.awt.Color;
@@ -6,7 +6,7 @@ import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferInt;
 
-import lordmastodon.engine.Window;
+import lordmastodon.firstway.engine.Window;
 
 @SuppressWarnings("serial")
 public class Display extends Canvas {

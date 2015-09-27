@@ -1,4 +1,4 @@
-package lordmastodon.engine.graphics;
+package lordmastodon.firstway.engine.graphics;
 
 import java.awt.Window;
 import java.awt.image.BufferedImage;

@@ -1,4 +1,4 @@
-package lordmastodon.engine;
+package lordmastodon.firstway.engine;
 
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -7,7 +7,7 @@ import java.awt.image.BufferStrategy;
 
 import javax.swing.JFrame;
 
-import lordmastodon.engine.graphics.Display;
+import lordmastodon.firstway.engine.graphics.Display;
 
 public class Window implements Runnable {
 	

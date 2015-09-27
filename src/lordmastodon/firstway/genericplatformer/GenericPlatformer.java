@@ -1,6 +1,6 @@
-package lordmastodon.genericplatformer;
+package lordmastodon.firstway.genericplatformer;
 
-import lordmastodon.engine.Window;
+import lordmastodon.firstway.engine.Window;
 
 public class GenericPlatformer {
 	
